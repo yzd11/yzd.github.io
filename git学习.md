@@ -29,7 +29,7 @@ $ git clone [url]
 
 ## GIT文件操作
 
-![image-20230307202101454](C:\Users\17946\AppData\Roaming\Typora\typora-user-images\image-20230307202101454.png)
+![image-20230307202101454](https://github.com/yzd11/yzd.github.io/blob/master/img/image-20230307200018812.png?raw=true)
 
 ### 查看文件状态
 
