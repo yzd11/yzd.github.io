@@ -26,7 +26,7 @@
 <hr />
 <p>使用三个***号或者三个---号产生一条分割线</p>
 <h2>图片</h2>
-<p><img src="C:\Users\17946\Pictures\Snipaste_2022-11-04_17-36-21.png" referrerpolicy="no-referrer" alt="截图"></p>
+<p><img src="https://github.com/yzd11/yzd.github.io/blob/master/img/Snipaste_2022-11-04_17-36-21.png?raw=true" referrerpolicy="no-referrer" alt="截图"></p>
 <p>使用!+[图片名字]+()</p>
 <h2>超链接</h2>
 <p><a href='123456.com'>超链接</a></p>
