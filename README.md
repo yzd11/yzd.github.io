@@ -1,2 +1,2 @@
 # yzd.github.io
-一个小测试
+个人blog
