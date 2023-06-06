@@ -1,2 +1,2 @@
 # yzd.github.io
-个人blog
+暂时作为图库使用了
